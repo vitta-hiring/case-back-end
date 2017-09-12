@@ -276,7 +276,7 @@ Now are are going to make your solution interact with us! We will trigger a set 
 
 But for that, we need a place where we can check the results!
 
-For this, make your application responde to the route `/dashboard` an HTML that contains:
+For this, make your application respond to the route `/dashboard` an HTML that contains:
 
 - List of territories ordered by **most painted area**;
 - List of territories ordered by **most proportional painted area**;
